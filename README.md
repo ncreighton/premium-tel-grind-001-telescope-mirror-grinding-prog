@@ -1,0 +1,2 @@
+# premium-tel-grind-001-telescope-mirror-grinding-prog
+Stop losing track of your mirror's curve between grinding sessions. A messy notebook or scattered sticky notes won't cut it when every 0.1mm of sagitta matters. The Telescope Mirror Grinding Progress Record transforms your Notion workspace into a precision tracking system for your glass.  This Notion template centralizes every measurement, session
